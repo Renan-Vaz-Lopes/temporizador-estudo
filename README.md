@@ -1,2 +1,2 @@
 # temporizador-estudo
-temporizador pra estudar na alura
+Este script roda automaticamente nas páginas da Alura e contabiliza o tempo apenas enquanto o vídeo está sendo reproduzido. A contagem é pausada sempre que o vídeo é pausado, finalizado ou quando você está lendo um texto ou fazendo um exercício da alura. Ao atingir uma hora líquida de estudo, o script exibe um alerta na tela. Ele continua funcionando normalmente mesmo ao navegar entre diferentes aulas ou tarefas, detectando mudanças na página automaticamente, você pode visualizar ele funcionando no console.log() e eu não sei mas acho que tem que usar o tampermonkey pra rodar o script.
